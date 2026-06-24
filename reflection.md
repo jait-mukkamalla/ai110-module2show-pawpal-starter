@@ -4,6 +4,8 @@
 
 **a. Initial design**
 
+3 Core Actions: Create pets, create various tasks for the pet(s), and schedule these tasks on daily calendar/planner
+
 - Briefly describe your initial UML design.
 - What classes did you include, and what responsibilities did you assign to each?
 
